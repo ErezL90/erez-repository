@@ -1,4 +1,12 @@
-#Erez Repository Hello Erez
+#Erez Repository Hello Erez:
+
+*This text will be italic* 
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
 
 ##git status:
 Checking current status of our files and repository
